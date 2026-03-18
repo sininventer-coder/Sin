@@ -1,0 +1,22 @@
+# React Native
+node_modules/
+*.log
+*.lock
+*.swp
+/.expo/
+.expo-shared/
+
+# Build artifacts
+android/app/build/
+android/app/src/main/assets/
+ios/build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
